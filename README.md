@@ -1,2 +1,2 @@
 # FirstRepo
-First Repo, not a real one, it's just a test
+First Repo, not a real one, it's just a test.
